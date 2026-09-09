@@ -1,1 +1,1 @@
-Color: white
+Color: red
